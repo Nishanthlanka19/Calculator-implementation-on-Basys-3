@@ -16,3 +16,5 @@ SW8 = 1, SW9 = 0: Multiplication
 SW8 = 1, SW9 = 1: Division
 
 Output display: First 8 LEDs (LED0-LED7) show the result of the operation
+
+![My Local Image](Image1.png)
